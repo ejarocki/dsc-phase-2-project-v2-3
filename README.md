@@ -12,6 +12,9 @@ If a house can be rennovated for resale, advise the homeowner to expand the livi
 Directory
 
 > Project2-Elijah.Jarocki.ipynb: Jupyter Notebook with code used to perform analysis
+> 
 > Project2-Elijah.Jarocki.pdf: PDF version of slideshow presentation for the project
+> 
 > /Data: Folder with kc_house_data.csv, the working data for this project & column_names.md a further explanation of the meaning of the column features for the dataset. 
+> 
 > LICENSE.md: License from Flatiron School for use of this data
